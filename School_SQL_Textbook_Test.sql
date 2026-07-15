@@ -58,5 +58,7 @@ CREATE TABLE NewOrders (
     orderdate DATE,
 	primary key(orderid),
     FOREIGN KEY(custid) REFERENCES NewCustomer(custid) ON DELETE CASCADE
-);     
-    
+);    
+코드 망치기
+조별과제 
+오케이 제대로 해볼게 
