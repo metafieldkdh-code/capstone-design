@@ -59,4 +59,6 @@ CREATE TABLE NewOrders (
 	primary key(orderid),
     FOREIGN KEY(custid) REFERENCES NewCustomer(custid) ON DELETE CASCADE
 );    
-dfdfasdfklasdjf;lkasdjf;lkasdjf;lkasdjf;lkasdjflksa;;
+코드 망치기
+조별과제 
+오케이 제대로 해볼게 
